@@ -1,0 +1,82 @@
+body {
+    font-family: 'Alata', sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: rgb(13, 212, 13);
+}
+
+.navbar {
+    margin-bottom: 50px;
+    background-color: rgb(0, 0, 0);
+    border-bottom: 2px dashed rgb(0, 255, 0);
+    height: 80px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    margin-left: calc(50% - 65px);
+}
+
+.card-upload {
+    background-color: rgb(0, 0, 0);
+    color: rgb(38, 194, 38);
+    border: 1px dashed rgb(0, 255, 0);
+
+}
+
+.card-2 {
+    margin-top: 25px;
+    background-color: black;
+    border: 1px dashed rgb(0, 255, 0);
+}
+
+.details-tab {
+    background-color: rgb(0, 0, 0);
+}
+
+.details-panal {
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 10px;
+    padding-top: 6px;
+}
+
+.form-control {
+    background-color: rgb(0, 0, 0);
+    border: 0;
+}
+
+.btn-outline-secondary {
+    color: white;
+}
+.plate-number {
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.view-main {
+    font-weight: 300;
+    margin-left: 30px;
+    font-size: 17px;
+}
+
+.view-secon {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.card-warn {
+    margin-top: 20px;
+    max-width: 300px;
+    text-align: center;
+    margin-left: calc(50% - 150px);
+    background-color: red;
+    border: 0;
+    color: rgb(5, 255, 5);
+}
+
+.card-image {
+    background-color: black;
+    color: rgb(13, 172, 13);
+    border: 1px dashed rgb(0, 255, 0);
+}
